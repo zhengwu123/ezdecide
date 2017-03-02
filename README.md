@@ -1,9 +1,6 @@
-# ezdecide
-# Project 4 - *Twitter Demo*
+# EZDecide
+# Group project Project 4 - *EZDecide*
 
-**Twitter Demo** is a basic twitter app to read and compose tweets the [Twitter API](https://apps.twitter.com/).
-
-Time spent: **15** hours spent in total
 
 ## User Stories
 
