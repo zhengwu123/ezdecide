@@ -7,7 +7,7 @@
 <img src='17203695_897484280354054_1036506180_n.png' title='Video Walkthrough' width='260' alt='Video Walkthrough' />
 <img src='Screen Shot 2017-03-09 at 9.56.44 PM.png' title='Video Walkthrough' width='260' alt='Video Walkthrough' />
 <img src='Screen Shot 2017-03-09 at 9.56.57 PM.png' title='Video Walkthrough' width='260' alt='Video Walkthrough' />
-<img src='Screen Shot 2017-03-09 at 9.56.44 PM.png' title='Video Walkthrough' width='260' alt='Video Walkthrough' />
+<img src='Screen Shot 2017-03-09 at 10.16.56 PM.png' title='Video Walkthrough' width='260' alt='Video Walkthrough' />
 <img src='17198042_897483537020795_1678466442_n.png' title='Video Walkthrough' width='260' alt='Video Walkthrough' />
 
 ## User Stories
