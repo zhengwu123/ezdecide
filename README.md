@@ -1,25 +1,4 @@
-# EZDecide
-# Group project Project 4 - *EZDecide*
-
-## Wireframes
-
-- User can login and sign up to use our app. 
-- After login, user will see the Posts View. User can vote by tapping the title of the option which is on the top of the image. 
-- By tapping the "+" button on the tab bar, user can compose a new question. 
-- User can see all the comments of one post by tapping the comments button in the post. 
-- User can comment by entering comment in the comment text field. 
-- User can see his own profile by tapping the profile tab on the tab bar. 
-- User can see all notifications by tapping the notification tab on the tab bar. 
-- User can see nearby posts by tapping the Discover tab on the tab bar.
-
-<img src='Screen Shot 2017-03-09 at 9.57.05 PM.png' title='Login View' width='260' alt='Login View' />
-<img src='Screen Shot 2017-03-09 at 9.57.10 PM.png' title='Sign Up View' width='260' alt='Sign Up View' />
-<img src='Screen Shot 2017-03-09 at 10.16.56 PM.png' title='Posts View' width='260' alt='Posts View' />
-<img src='Screen Shot 2017-03-09 at 9.56.57 PM.png' title='Compose View' width='260' alt='Compose View' />
-<img src='17198042_897483537020795_1678466442_n.png' title='Comments View' width='260' alt='Comments View' />
-<img src='Screen Shot 2017-03-09 at 9.56.44 PM.png' title='Profile View' width='260' alt='Profile View' />
-<img src='17198523_897484313687384_305608715_n.png' title='Nearby Posts View' width='260' alt='Nearby Posts View' />
-<img src='17203695_897484280354054_1036506180_n.png' title='Notifications View' width='260' alt='Notifications View' />
+# Group Project - *EZDecide*
 
 ## User Stories
 
@@ -75,6 +54,25 @@ Data Analysis
 - [] As a user, I would like to see the voting result by constellation.
 - [] As a user, I would like to see the overall voting result.
 
+## Wireframes
+
+- User can login and sign up to use our app. 
+- After login, user will see the Posts View. User can vote by tapping the title of the option which is on the top of the image. 
+- By tapping the "+" button on the tab bar, user can compose a new question. 
+- User can see all the comments of one post by tapping the comments button in the post. 
+- User can comment by entering comment in the comment text field. 
+- User can see his own profile by tapping the profile tab on the tab bar. 
+- User can see all notifications by tapping the notification tab on the tab bar. 
+- User can see nearby posts by tapping the Discover tab on the tab bar.
+
+<img src='Screen Shot 2017-03-09 at 9.57.05 PM.png' title='Login View' width='260' alt='Login View' />
+<img src='Screen Shot 2017-03-09 at 9.57.10 PM.png' title='Sign Up View' width='260' alt='Sign Up View' />
+<img src='Screen Shot 2017-03-09 at 10.16.56 PM.png' title='Posts View' width='260' alt='Posts View' />
+<img src='Screen Shot 2017-03-09 at 9.56.57 PM.png' title='Compose View' width='260' alt='Compose View' />
+<img src='17198042_897483537020795_1678466442_n.png' title='Comments View' width='260' alt='Comments View' />
+<img src='Screen Shot 2017-03-09 at 9.56.44 PM.png' title='Profile View' width='260' alt='Profile View' />
+<img src='17198523_897484313687384_305608715_n.png' title='Nearby Posts View' width='260' alt='Nearby Posts View' />
+<img src='17203695_897484280354054_1036506180_n.png' title='Notifications View' width='260' alt='Notifications View' />
 
 Here's a walkthrough of implemented user stories:
 
