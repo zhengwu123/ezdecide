@@ -3,7 +3,14 @@
 
 ## Wireframes
 
-User can login and sign up to use our app. After login, user will see the Posts View. User can vote by tapping the title of the option which is on the top of the image. By tapping the "+" button on the tab bar, user can compose a new question. User can see all the comments of one post by tapping the comments button in the post. User can comment by entering comment in the comment text field. User can see his own profile by tapping the profile tab on the tab bar. User can see all notifications by tapping the notification tab on the tab bar. User can see nearby posts by tapping the Discover tab on the tab bar.
+- User can login and sign up to use our app. 
+- After login, user will see the Posts View. User can vote by tapping the title of the option which is on the top of the image. 
+- By tapping the "+" button on the tab bar, user can compose a new question. 
+- User can see all the comments of one post by tapping the comments button in the post. 
+- User can comment by entering comment in the comment text field. 
+- User can see his own profile by tapping the profile tab on the tab bar. 
+- User can see all notifications by tapping the notification tab on the tab bar. 
+- User can see nearby posts by tapping the Discover tab on the tab bar.
 
 <img src='Screen Shot 2017-03-09 at 9.57.05 PM.png' title='Login View' width='260' alt='Login View' />
 <img src='Screen Shot 2017-03-09 at 9.57.10 PM.png' title='Sign Up View' width='260' alt='Sign Up View' />
