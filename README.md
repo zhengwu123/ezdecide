@@ -1,6 +1,11 @@
 # EZDecide
 # Group project Project 4 - *EZDecide*
-
+<img src='17198523_897484313687384_305608715_n.png' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='17203695_897484280354054_1036506180_n.png' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='Screen Shot 2017-03-09 at 9.56.44 PM.png' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='Screen Shot 2017-03-09 at 9.56.57 PM.png' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='Screen Shot 2017-03-09 at 9.57.05 PM.png' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='Screen Shot 2017-03-09 at 9.57.10 PM.png' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## User Stories
 
